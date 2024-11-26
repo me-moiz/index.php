@@ -1,18 +1,4 @@
-<!-- <?php
-$servername = "localhost";
-$username = "root";
-$password = "";
-$database = "moiz";
 
-
-
-
-
-
-
-
-
-?> -->
 <form action="welcome_get.php" method="GET">
   Name: <input type="text" name="name">
   E-mail: <input type="text" name="email">
